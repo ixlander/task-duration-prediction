@@ -7,8 +7,6 @@ This project predicts the actual duration of tasks based on their estimated comp
 - [Usage](#usage)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 1. Clone the repository:
